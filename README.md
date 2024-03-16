@@ -23,8 +23,10 @@ git clone https://github.com/seuusuario/seuprojeto.git
 
 2. Instale as dependências:
 
+```bash
 cd seuprojeto
 npm install
+```
 
 3. Configure o ambiente:
 
@@ -32,7 +34,9 @@ No arquivo Main configure seu banco de dados
 
 4. Execute o projeto: 
 
+```bash
 npm run start:dev
+```
 
 5. Configure o MailHot (Emails Fake) - https://github.com/mailhog/MailHog
 
