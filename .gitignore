@@ -1,0 +1,22 @@
+# Arquivos de log
+logs
+*.log
+
+# Pasta de saída compilada
+dist
+
+# Módulos de dependência
+node_modules
+
+# Arquivo de ambiente
+.env
+
+# Arquivos de configuração do VS Code
+.vscode
+
+# Arquivos de cache
+.cache
+
+# Arquivos temporários
+.tmp
+.temp
